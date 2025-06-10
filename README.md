@@ -12,3 +12,5 @@ Used tools or programming languages:<br>
 - GO<br>
 - HTML, CSS<br>
 - Bash<br>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
